@@ -14,5 +14,5 @@ Dashboard interaktif mengenai analisa demand penyewaan sepeda.
    streamlit run dashboardbike.py / python -m streamlit run dashboard.py
    ```
 ## Streamlit Link:
-## https://adityafaths-dicodingdatafinal-bikedashboard-nirknc.streamlit.app/
+##
 
