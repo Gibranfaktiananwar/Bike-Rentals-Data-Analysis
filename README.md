@@ -13,6 +13,6 @@ Dashboard interaktif mengenai analisa demand penyewaan sepeda.
    ```
    streamlit run dashboardbike.py / python -m streamlit run dashboard.py
    ```
-## Streamlit Link:
+## Streamlit Link: https://gibrandicodingbikeanalysis.streamlit.app/
 ##
 
