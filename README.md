@@ -1,6 +1,6 @@
 ## Overview
 
-Dashboard interaktif mengenai analisa demand penyewaan sepeda.
+This repo contains the final project of the dicoding course.
 
 ## Setup Environment
    ```
